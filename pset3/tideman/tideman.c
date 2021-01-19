@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// This program is incomplete, the lock_pairs uses recursion and it was very difficult to figure out
+
 // Max number of candidates
 #define MAX 9
 
